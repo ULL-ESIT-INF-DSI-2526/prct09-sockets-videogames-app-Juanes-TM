@@ -1,0 +1,9 @@
+{
+  "entryPoints": [
+    //"src/previa/core/*.ts",
+    "src/previa/interfaces/*.ts",
+    "src/previa/models/*.ts",
+    "src/previa/types/*.ts",
+  ],
+  "out": "./docs"
+}
